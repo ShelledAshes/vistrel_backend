@@ -1,0 +1,3 @@
+[submodule "footage_parser"]
+	path = footage_parser
+	url = https://github.com/ShelledAshes/footage_parser.git
